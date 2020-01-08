@@ -31,8 +31,10 @@ que ha descargado la web de Tableau. Una vez finalizado el proyecto final se pub
 |--------------------|------------|
 | README.md	| Fichero que contiene información del proyecto y de los ficheros|
 | emuzo_vdd_PEC4.pdf	| Informe del trabajo en formato PFD |
-| tableau <ul><li>emuzo_vd_PEC2.twb.csv</il><li>emuzo_vd_PEC3.twb.csv</il><li>emuzo_vd_PEC4.twb.csv</il><li>dataset <ul><li>pax_data_1789_agreements_16-11-19.csv</il><li>pax_corpus_1789_agreements_16-11-19.csv</il><li>pax_data_1789_agreements_16-11-19.hyper</il></ul></il></ul>| Directorio del proyecto en tableau <ul><li>Proyecto de la PEC 2</il><li>Proyecto de la PEC 3</il><li>Proyecto de la PEC 4</il><li>Directorio del dataset<ul><li>Fichero de dataset de acuerdos de paz (corpus)</il><li>Fichero de dataset de acuerdos de paz (Tableau)</il><li>Fichero de dataset de acuerdos de paz</il></ul></il></ul>|
+| tableau <ul><li>emuzo_vd_PEC2.twb.csv</il><li>emuzo_vd_PEC3.twb.csv</il><li>emuzo_vd_PEC4.twb.csv</il><li>dataset <ul><li>pax_data_1789_agreements_16-11-19.csv</il><li>pax_corpus_1789_agreements_16-11-19.csv</il><li>pax_data_1789_agreements_16-11-19.hyper</il></ul></il></ul>| Directorio del proyecto en tableau <ul><li>Proyecto de la PEC 2</il><li>Proyecto de la PEC 3</il><li>Proyecto de la PEC 4</il><li>Directorio del dataset<ul><li>Fichero de dataset de acuerdos de paz</il><li>Fichero de dataset de acuerdos de paz (corpus)</il><li>Fichero de dataset de acuerdos de paz(Tableau)</il></ul></il></ul>|
 | python <ul><li>2019_PRAC_2.ipynb</il><li>dataset <ul><li>pax_data_1789_agreements_16-11-19.csv</il></ul></il></ul> | Directorio del proyecto en python <ul><li>Fichero de Jupyter Notebook</il><li>Directorio del dataset<ul><li>Fichero de dataset de acuerdos de paz</il></ul></il></ul>|
+
+El fichero pax_data_1789_agreements_16-11-19.hyper es empleado por el proyecto Tableau. Cuando se usa en Tableau Desktop no va poder localizar el dataset debido a que hace referencia a un directorio absoluto en el ordenador que se creo el proyecto. Por tanto, cuando se habrá el proyecto hay que decirle la ruta del fichero pax_data_1789_agreements_16-11-19.hyper.
 
 ## Contribuyentes
 
