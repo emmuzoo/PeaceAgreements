@@ -32,7 +32,7 @@ que ha descargado la web de Tableau. Una vez finalizado el proyecto final se pub
 | README.md	| Fichero que contiene información del proyecto y de los ficheros|
 | emuzo_vdd_PEC4.pdf	| Informe del trabajo en formato PFD |
 | tableau <ul><li>emuzo_vd_PEC2.twb.csv</il><li>emuzo_vd_PEC3.twb.csv</il><li>emuzo_vd_PEC4.twb.csv</il></ul>| Directorio del proyecto en tableau <ul><li>Proyecto de la PEC 2</il><li>Proyecto de la PEC 3</il><li>Proyecto de la PEC 4</il></ul>|
-| python <ul><li>2019_PRAC_2.ipynb</il><li>dataset <ul><li>pax_data_1789_agreements_16-11-19.csv</il></ul></il><li>cleaning_full.csv</il></ul> | Directorio del proyecto en python <ul><li>Fichero de Jupyter Notebook</il><li>Directorio del dataset<ul><li>Fichero de dataset de acuerdos de paz</il></ul></il><li>Directorio del dataset</il></ul>||
+| python <ul><li>2019_PRAC_2.ipynb</il><li>dataset <ul><li>pax_data_1789_agreements_16-11-19.csv</il></ul></il></ul> | Directorio del proyecto en python <ul><li>Fichero de Jupyter Notebook</il><li>Directorio del dataset<ul><li>Fichero de dataset de acuerdos de paz</il></ul></il></ul>|
 
 ## Contribuyentes
 
