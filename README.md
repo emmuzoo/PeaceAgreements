@@ -1,7 +1,7 @@
 
 # PeaceAgreements
 
-sta visualización explica de forma breve la evolución en el tiempo de los tipos de acuerdos firmados y los tipos de conflicto que se recogen en los acuerdos de paz desde 1998 hasta 2019. Para esta visualización solamente consideraremos los 20 países con más acuerdos firmados ya estos son los más relevantes. Igualmente se muestran un conjunto de seis indicadores de medidas (grupo racial, alto al fuego, impuestos, crímenes, refugiados, y clases sociales) para mejorar la vida de las personas para los países que tienen más acuerdos de paz firmados. Los datos empleados provienen del dataset de acuerdos de paz obtenido desde [https://www.peaceagreements.org/search](https://www.peaceagreements.org/search) con fecha 16-11-2019.
+Esta visualización explica de forma breve la evolución en el tiempo de los tipos de acuerdos firmados y los tipos de conflicto que se recogen en los acuerdos de paz desde 1998 hasta 2019. Para esta visualización solamente consideraremos los 20 países con más acuerdos firmados ya estos son los más relevantes. Igualmente se muestran un conjunto de seis indicadores de medidas (grupo racial, alto al fuego, impuestos, crímenes, refugiados, y clases sociales) para mejorar la vida de las personas para los países que tienen más acuerdos de paz firmados. Los datos empleados provienen del dataset de acuerdos de paz obtenido desde [https://www.peaceagreements.org/search](https://www.peaceagreements.org/search) con fecha 16-11-2019.
 
 Respecto a los tipos de gráficas empleadas tenemos tres tipos. Para mostrar las dos cronologías se emplearán dos diagramas de áreas. Se empleará un mapa para localizar los países rápidamente. Por último, para mostrar los indicadores se utilizarán seis diagramas de barras.
 
